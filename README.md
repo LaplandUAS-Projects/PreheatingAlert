@@ -167,3 +167,10 @@ framework = arduino
 ## Lisenssi
 
 Lisää projektin lisenssitiedot tähän.
+
+-----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/img/logot/license.png">
+  <source media="(prefers-color-scheme: light)" srcset="/img/logot/license_lightmode.png">
+  <img alt="License logo" src="/img/logot/license.png">
+</picture>
